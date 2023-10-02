@@ -55,9 +55,17 @@ def validate(test_dataloader, model):
 
 if __name__ == '__main__':
     ########## Change it with your data ##############
-    data_file = "./data/Xiaohan/sample/cropped2-2.tif"
-    model_file = "./src/GUI/trained_models/bs1.pth" # "./results/saved_models/mytest/model_0.pth"
-    output_file = "./results/xiaohan_denoised_0.tif"
+    testname = 'Y489_test01'
+    # data_file = "/camp/home/zhangy3/em-schafer-working/processed/CLEM2022/CLEM221010/Y489/18-2P_denoise_SURPPORT/test_data/plane4/Y489_s2p_reg_test_01_manualReg_chunk1_plane4.tif"
+    data_file = "/camp/home/zhangy3/em-schafer-working/processed/CLEM2022/CLEM221010/Y489/18-2P_denoise_SURPPORT/test_data/plane10/Y489_s2p_reg_test_01_manualReg_chunk1_plane10.tif"
+    
+    model_file = "./src/GUI/trained_models/bs1.pth" 
+    # model_file = "./results/saved_models/Y489_train03/model_30.pth" #"./src/GUI/trained_models/bs1.pth" 
+    
+    
+    # output_file = f"/camp/home/zhangy3/em-schafer-working/processed/CLEM2022/CLEM221010/Y489/18-2P_denoise_SURPPORT/{testname}/{testname}_plane4_chunk1_denoised.tif" # "./results/denoised_0.tif"
+    output_file = f"/camp/home/zhangy3/em-schafer-working/processed/CLEM2022/CLEM221010/Y489/18-2P_denoise_SURPPORT/{testname}/{testname}_plane10_chunk1_denoised.tif" # "./results/denoised_0.tif"
+    
     patch_size = [61, 64, 64]
     patch_interval = [1, 32, 32]
     batch_size = 16    # lower it if memory exceeds.

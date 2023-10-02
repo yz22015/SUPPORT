@@ -1,0 +1,44 @@
+root - INFO - [2023-09-29 16:21:37] Epoch [0/11] Batch [1/135] loss : 0.8302, loss_l1 : 0.7262, loss_l2 : 0.9341
+root - INFO - [2023-09-29 16:21:49] Epoch [0/11] Batch [51/135] loss : 0.7358, loss_l1 : 0.6839, loss_l2 : 0.7878
+root - INFO - [2023-09-29 16:22:00] Epoch [0/11] Batch [101/135] loss : 0.7265, loss_l1 : 0.6719, loss_l2 : 0.7811
+root - INFO - [2023-09-29 16:22:08] Epoch [0/11] loss : 0.7212, loss_l1 : 0.6670, loss_l2 : 0.7754
+root - INFO - [2023-09-29 16:22:08] Epoch [1/11] Batch [1/135] loss : 0.6846, loss_l1 : 0.6394, loss_l2 : 0.7298
+root - INFO - [2023-09-29 16:22:19] Epoch [1/11] Batch [51/135] loss : 0.7054, loss_l1 : 0.6519, loss_l2 : 0.7589
+root - INFO - [2023-09-29 16:22:31] Epoch [1/11] Batch [101/135] loss : 0.7033, loss_l1 : 0.6505, loss_l2 : 0.7561
+root - INFO - [2023-09-29 16:22:38] Epoch [1/11] loss : 0.7047, loss_l1 : 0.6514, loss_l2 : 0.7580
+root - INFO - [2023-09-29 16:22:38] Epoch [2/11] Batch [1/135] loss : 0.7110, loss_l1 : 0.6553, loss_l2 : 0.7667
+root - INFO - [2023-09-29 16:22:50] Epoch [2/11] Batch [51/135] loss : 0.7050, loss_l1 : 0.6517, loss_l2 : 0.7584
+root - INFO - [2023-09-29 16:23:01] Epoch [2/11] Batch [101/135] loss : 0.7029, loss_l1 : 0.6502, loss_l2 : 0.7557
+root - INFO - [2023-09-29 16:23:10] Epoch [2/11] loss : 0.7055, loss_l1 : 0.6518, loss_l2 : 0.7591
+root - INFO - [2023-09-29 16:23:10] Epoch [3/11] Batch [1/135] loss : 0.6576, loss_l1 : 0.6208, loss_l2 : 0.6943
+root - INFO - [2023-09-29 16:23:22] Epoch [3/11] Batch [51/135] loss : 0.7145, loss_l1 : 0.6583, loss_l2 : 0.7706
+root - INFO - [2023-09-29 16:23:33] Epoch [3/11] Batch [101/135] loss : 0.7087, loss_l1 : 0.6542, loss_l2 : 0.7631
+root - INFO - [2023-09-29 16:23:41] Epoch [3/11] loss : 0.7040, loss_l1 : 0.6510, loss_l2 : 0.7570
+root - INFO - [2023-09-29 16:23:42] Epoch [4/11] Batch [1/135] loss : 0.7280, loss_l1 : 0.6718, loss_l2 : 0.7842
+root - INFO - [2023-09-29 16:23:53] Epoch [4/11] Batch [51/135] loss : 0.7018, loss_l1 : 0.6495, loss_l2 : 0.7542
+root - INFO - [2023-09-29 16:24:04] Epoch [4/11] Batch [101/135] loss : 0.7009, loss_l1 : 0.6486, loss_l2 : 0.7532
+root - INFO - [2023-09-29 16:24:12] Epoch [4/11] loss : 0.7033, loss_l1 : 0.6502, loss_l2 : 0.7564
+root - INFO - [2023-09-29 16:24:13] Epoch [5/11] Batch [1/135] loss : 0.7279, loss_l1 : 0.6665, loss_l2 : 0.7894
+root - INFO - [2023-09-29 16:24:25] Epoch [5/11] Batch [51/135] loss : 0.7098, loss_l1 : 0.6550, loss_l2 : 0.7645
+root - INFO - [2023-09-29 16:24:36] Epoch [5/11] Batch [101/135] loss : 0.7091, loss_l1 : 0.6543, loss_l2 : 0.7639
+root - INFO - [2023-09-29 16:24:44] Epoch [5/11] loss : 0.7066, loss_l1 : 0.6525, loss_l2 : 0.7607
+root - INFO - [2023-09-29 16:24:44] Epoch [6/11] Batch [1/135] loss : 0.6803, loss_l1 : 0.6352, loss_l2 : 0.7254
+root - INFO - [2023-09-29 16:24:55] Epoch [6/11] Batch [51/135] loss : 0.6943, loss_l1 : 0.6441, loss_l2 : 0.7445
+root - INFO - [2023-09-29 16:25:07] Epoch [6/11] Batch [101/135] loss : 0.7006, loss_l1 : 0.6485, loss_l2 : 0.7526
+root - INFO - [2023-09-29 16:25:17] Epoch [6/11] loss : 0.7052, loss_l1 : 0.6518, loss_l2 : 0.7587
+root - INFO - [2023-09-29 16:25:17] Epoch [7/11] Batch [1/135] loss : 0.6661, loss_l1 : 0.6269, loss_l2 : 0.7054
+root - INFO - [2023-09-29 16:25:28] Epoch [7/11] Batch [51/135] loss : 0.7036, loss_l1 : 0.6506, loss_l2 : 0.7566
+root - INFO - [2023-09-29 16:25:40] Epoch [7/11] Batch [101/135] loss : 0.7060, loss_l1 : 0.6522, loss_l2 : 0.7599
+root - INFO - [2023-09-29 16:25:49] Epoch [7/11] loss : 0.7067, loss_l1 : 0.6525, loss_l2 : 0.7609
+root - INFO - [2023-09-29 16:25:49] Epoch [8/11] Batch [1/135] loss : 0.6199, loss_l1 : 0.5914, loss_l2 : 0.6485
+root - INFO - [2023-09-29 16:26:00] Epoch [8/11] Batch [51/135] loss : 0.7056, loss_l1 : 0.6516, loss_l2 : 0.7597
+root - INFO - [2023-09-29 16:26:12] Epoch [8/11] Batch [101/135] loss : 0.7042, loss_l1 : 0.6505, loss_l2 : 0.7578
+root - INFO - [2023-09-29 16:26:19] Epoch [8/11] loss : 0.7029, loss_l1 : 0.6497, loss_l2 : 0.7562
+root - INFO - [2023-09-29 16:26:19] Epoch [9/11] Batch [1/135] loss : 0.6784, loss_l1 : 0.6379, loss_l2 : 0.7190
+root - INFO - [2023-09-29 16:26:31] Epoch [9/11] Batch [51/135] loss : 0.6999, loss_l1 : 0.6482, loss_l2 : 0.7516
+root - INFO - [2023-09-29 16:26:43] Epoch [9/11] Batch [101/135] loss : 0.7032, loss_l1 : 0.6502, loss_l2 : 0.7562
+root - INFO - [2023-09-29 16:26:50] Epoch [9/11] loss : 0.7039, loss_l1 : 0.6508, loss_l2 : 0.7571
+root - INFO - [2023-09-29 16:26:51] Epoch [10/11] Batch [1/135] loss : 0.7214, loss_l1 : 0.6657, loss_l2 : 0.7772
+root - INFO - [2023-09-29 16:27:02] Epoch [10/11] Batch [51/135] loss : 0.7047, loss_l1 : 0.6509, loss_l2 : 0.7584
+root - INFO - [2023-09-29 16:27:13] Epoch [10/11] Batch [101/135] loss : 0.7045, loss_l1 : 0.6510, loss_l2 : 0.7579
+root - INFO - [2023-09-29 16:27:22] Epoch [10/11] loss : 0.7052, loss_l1 : 0.6513, loss_l2 : 0.7590
